@@ -19,6 +19,9 @@ Everything is implemented in the Jupyter notebook which will hopefully make it e
 
 # References
  [1] http://yann.lecun.com/exdb/mnist/
+ 
  [2] Yann LeCun, Professor, The Courant Institute of Mathematical Sciences, New York University
+ 
  [3] Corinna Cortes, Research Scientist, Google Labs, New York
+ 
  [4] Christopher J.C. Burges, Microsoft Research, Redmond
