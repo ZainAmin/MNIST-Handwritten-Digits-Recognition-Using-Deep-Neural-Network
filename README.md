@@ -18,10 +18,14 @@ Everything is implemented in the Jupyter notebook which will hopefully make it e
 4) Matplotlib
 
 # References
- [1] http://yann.lecun.com/exdb/mnist/
+
+ [1] Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based learning applied to document recognition." Proceedings of the IEEE,
+     86(11):2278-2324, November 1998.
+
+ [2] http://yann.lecun.com/exdb/mnist/
  
- [2] Yann LeCun, Professor, The Courant Institute of Mathematical Sciences, New York University
+ [3] Yann LeCun, Professor, The Courant Institute of Mathematical Sciences, New York University
  
- [3] Corinna Cortes, Research Scientist, Google Labs, New York
+ [4] Corinna Cortes, Research Scientist, Google Labs, New York
  
- [4] Christopher J.C. Burges, Microsoft Research, Redmond
+ [5] Christopher J.C. Burges, Microsoft Research, Redmond
