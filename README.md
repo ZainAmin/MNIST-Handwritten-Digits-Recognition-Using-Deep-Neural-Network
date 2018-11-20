@@ -1,4 +1,4 @@
-# Applying-Deep-Neural-Network-on-MNIST-dataset
+# MNIST: Handwritten Digits Recognition Using Deep Neural Network
 
 Used deep neural network model trained on MNIST dataset to classify images of handwritten digits
 - Generates automatic predictions for images. 
