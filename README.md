@@ -22,7 +22,7 @@ Everything is implemented in the Jupyter notebook which will hopefully make it e
  [1] Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based learning applied to document recognition." Proceedings of the IEEE,
      86(11):2278-2324, November 1998.
 
- [2] http://yann.lecun.com/exdb/mnist/
+ [2] Official site for MNIST dataset: http://yann.lecun.com/exdb/mnist/
  
  [3] Yann LeCun, Professor, The Courant Institute of Mathematical Sciences, New York University
  
